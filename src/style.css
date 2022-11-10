@@ -1,0 +1,52 @@
+
+.container-out{
+    padding:15pt;
+    width:30%;
+    
+}
+.reviewlist{
+    display: flex;
+    flex-direction: row;
+}
+.imagecustomer{
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.namecustomer{
+    text-align: right;
+    justify-content: center;
+    padding:1pt;
+    padding-top: 0pt;
+    padding-bottom:0pt;
+    margin:0pt;
+}
+.container_review{
+    display:block;
+    margin-bottom:2pt;
+    
+}
+.container-footer{
+    display:flex;
+    vertical-align:bottom;
+    position: relative;
+    
+}
+.upvote{
+    background-color: green;
+    color:aliceblue;
+    text-align: center;
+    padding:2pt;
+    height: 25pt;
+}
+.downvote{
+    background-color: red;
+    color:aliceblue;
+    text-align: center;
+    padding:2pt;
+    height: 25pt;
+}
+.count{
+    padding: 5pt;
+    text-align: center;
+}

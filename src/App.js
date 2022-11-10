@@ -1,25 +1,34 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import Review from "./Pages/review"
+import About from './Pages/about';
+import Home from './home';
+import Navbar from './navbar';
+import Footer from './footer';
+import Query from './Pages/query';
+import Book_Table from './Pages/book_table';
+import Order from './Pages/Online Order';
+import Order_online from './Pages/Online Order';
+import { BrowserRouter as Router, Routes, Route}
+    from 'react-router-dom';
+
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+  return(
+    <Router>
+    <Navbar />
+    <Routes>
+        <Route exact path='/' element={<Home />} />
+        <Route path='/About Us' element={<About/>} />
+        <Route path='/Book_Table' element={<Book_Table/>} />
+        <Route path='/Query' element={<Query/>} />
+        <Route path='/feedback' element={<Review/>}/>
+        <Route path='/Order' element={<Order_online/>}/>
+    </Routes>
+    <Footer/>
+    </Router>
+  )
 }
-
 export default App;
+
+
