@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.8f5a2e8b.css",
-    "main.js": "/static/js/main.ab374f7c.js",
-    "static/js/787.1dc84fb7.chunk.js": "/static/js/787.1dc84fb7.chunk.js",
-    "static/media/twitter.png": "/static/media/twitter.686eb8a87606f2e484df.png",
-    "static/media/Logo.png": "/static/media/Logo.954afb95b2e159c4d340.png",
-    "static/media/instagram.png": "/static/media/instagram.5c10108a3e068f08438f.png",
-    "index.html": "/index.html",
-    "main.8f5a2e8b.css.map": "/static/css/main.8f5a2e8b.css.map",
-    "main.ab374f7c.js.map": "/static/js/main.ab374f7c.js.map",
-    "787.1dc84fb7.chunk.js.map": "/static/js/787.1dc84fb7.chunk.js.map"
+    "main.css": "/RINIRUP_RESTURANT/static/css/main.8f5a2e8b.css",
+    "main.js": "/RINIRUP_RESTURANT/static/js/main.3475f9ab.js",
+    "static/js/787.1dc84fb7.chunk.js": "/RINIRUP_RESTURANT/static/js/787.1dc84fb7.chunk.js",
+    "static/media/twitter.png": "/RINIRUP_RESTURANT/static/media/twitter.686eb8a87606f2e484df.png",
+    "static/media/Logo.png": "/RINIRUP_RESTURANT/static/media/Logo.954afb95b2e159c4d340.png",
+    "static/media/instagram.png": "/RINIRUP_RESTURANT/static/media/instagram.5c10108a3e068f08438f.png",
+    "index.html": "/RINIRUP_RESTURANT/index.html",
+    "main.8f5a2e8b.css.map": "/RINIRUP_RESTURANT/static/css/main.8f5a2e8b.css.map",
+    "main.3475f9ab.js.map": "/RINIRUP_RESTURANT/static/js/main.3475f9ab.js.map",
+    "787.1dc84fb7.chunk.js.map": "/RINIRUP_RESTURANT/static/js/787.1dc84fb7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8f5a2e8b.css",
-    "static/js/main.ab374f7c.js"
+    "static/js/main.3475f9ab.js"
   ]
 }
