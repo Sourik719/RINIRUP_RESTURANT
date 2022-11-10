@@ -13,7 +13,7 @@ function Carousel(){
         </div>
         <div className="carousel-inner">
           <div className="carousel-item active">
-            <img src="./Images/Drinks.jpeg" className="d-block w-100" alt="..."/>
+            <img src="Images/Drinks.jpeg" className="d-block w-100" alt="..."/>
             <div className="carousel-caption d-none d-md-block">
               <h5>Grab a Drink</h5>
               <p>To relenquish your thirst</p>
@@ -27,7 +27,7 @@ function Carousel(){
             </div>
           </div>
           <div className="carousel-item">
-            <img src="./Images/3rd.jpeg" className="d-block w-100" alt="..."/>
+            <img src="Images/3rd.jpeg" className="d-block w-100" alt="..."/>
             <div className="carousel-caption d-none d-md-block">
               <h5>Give Us a Chance</h5>
               <p>To serve your Tastebuds</p>
